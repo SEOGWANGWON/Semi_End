@@ -1,0 +1,36 @@
+OS 볼륨에 대한 폴더 경로의 목록입니다.
+볼륨 일련 번호는 AE45-BB5A입니다.
+C:.
+└─SHINee_say
+    ├─BACK
+    │  ├─MAIN
+    │  │  ├─.settings
+    │  │  ├─build
+    │  │  │  └─classes
+    │  │  │      └─shinee
+    │  │  │          ├─dao
+    │  │  │          ├─servlet
+    │  │  │          └─vo
+    │  │  └─src
+    │  │      └─main
+    │  │          ├─java
+    │  │          │  └─shinee
+    │  │          │      ├─dao
+    │  │          │      ├─servlet
+    │  │          │      └─vo
+    │  │          └─webapp
+    │  │              ├─css
+    │  │              ├─img
+    │  │              ├─js
+    │  │              ├─META-INF
+    │  │              │  └─lib
+    │  │              └─WEB-INF
+    │  │                  └─lib
+    │  └─Servers
+    │      ├─.settings
+    │      └─Apache Tomcat v9.0 (2) at localhost-config
+    ├─FRONT
+    │  ├─css
+    │  ├─html
+    │  └─img
+    └─SQL

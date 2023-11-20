@@ -1,0 +1,6 @@
+tree 트리구조
+
+tree > outtree.txt (폴더까지의 트리구조) 파일 생성
+tree /f >treemainOutPut.txt (파일까지의 트리구조) 파일생성
+
+git log

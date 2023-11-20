@@ -1,0 +1,204 @@
+OS º¼·ý¿¡ ´ëÇÑ Æú´õ °æ·ÎÀÇ ¸ñ·ÏÀÔ´Ï´Ù.
+º¼·ý ÀÏ·Ã ¹øÈ£´Â AE45-BB5AÀÔ´Ï´Ù.
+C:.
+¦¢ 
+¦¢  
+¦¢  
+¦¢  
+¦¦¦¡SHINee_say
+    ¦¢ 
+    ¦¢  
+    ¦§¦¡BACK
+    ¦¢  ¦§¦¡MAIN
+    ¦¢  ¦¢  ¦¢  .classpath
+    ¦¢  ¦¢  ¦¢  .project
+    ¦¢  ¦¢  ¦¢  
+    ¦¢  ¦¢  ¦§¦¡.settings
+    ¦¢  ¦¢  ¦¢      org.eclipse.jdt.core.prefs
+    ¦¢  ¦¢  ¦¢      org.eclipse.wst.common.component
+    ¦¢  ¦¢  ¦¢      org.eclipse.wst.common.project.facet.core.xml
+    ¦¢  ¦¢  ¦¢      
+    ¦¢  ¦¢  ¦§¦¡build
+    ¦¢  ¦¢  ¦¢  ¦¦¦¡classes
+    ¦¢  ¦¢  ¦¢      ¦¦¦¡shinee
+    ¦¢  ¦¢  ¦¢          ¦§¦¡dao
+    ¦¢  ¦¢  ¦¢          ¦¢      FollowBlob_DAO.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Insert_music_toPlaylist_DAO.class
+    ¦¢  ¦¢  ¦¢          ¦¢      MyPage_DAO.class
+    ¦¢  ¦¢  ¦¢          ¦¢      MyPlayList_DAO.class
+    ¦¢  ¦¢  ¦¢          ¦¢      PlaylistMusic_DAO.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Register_DAO.class
+    ¦¢  ¦¢  ¦¢          ¦¢      SearchDAO.class
+    ¦¢  ¦¢  ¦¢          ¦¢      
+    ¦¢  ¦¢  ¦¢          ¦§¦¡servlet
+    ¦¢  ¦¢  ¦¢          ¦¢      AddMusic_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      All_Playlist_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      BlobTest.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Create_Playlist_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Delete_Playlist_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Delete_User_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Following_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Insert_Followlist_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Login_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Modify_Userinfo_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      MyPage_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Playlist_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Register_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      SearchServlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      Select_Playlist_image_Servlet.class
+    ¦¢  ¦¢  ¦¢          ¦¢      ÅÖ.png
+    ¦¢  ¦¢  ¦¢          ¦¢      
+    ¦¢  ¦¢  ¦¢          ¦¦¦¡vo
+    ¦¢  ¦¢  ¦¢                  Follow_list_VO.class
+    ¦¢  ¦¢  ¦¢                  Music_info_VO.class
+    ¦¢  ¦¢  ¦¢                  Playlist_info_VO.class
+    ¦¢  ¦¢  ¦¢                  Playlist_song_VO.class
+    ¦¢  ¦¢  ¦¢                  User_info_VO.class
+    ¦¢  ¦¢  ¦¢                  
+    ¦¢  ¦¢  ¦¦¦¡src
+    ¦¢  ¦¢      ¦¦¦¡main
+    ¦¢  ¦¢          ¦§¦¡java
+    ¦¢  ¦¢          ¦¢  ¦¦¦¡shinee
+    ¦¢  ¦¢          ¦¢      ¦§¦¡dao
+    ¦¢  ¦¢          ¦¢      ¦¢      FollowBlob_DAO.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Insert_music_toPlaylist_DAO.java
+    ¦¢  ¦¢          ¦¢      ¦¢      MyPage_DAO.java
+    ¦¢  ¦¢          ¦¢      ¦¢      MyPlayList_DAO.java
+    ¦¢  ¦¢          ¦¢      ¦¢      PlaylistMusic_DAO.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Register_DAO.java
+    ¦¢  ¦¢          ¦¢      ¦¢      SearchDAO.java
+    ¦¢  ¦¢          ¦¢      ¦¢      
+    ¦¢  ¦¢          ¦¢      ¦§¦¡servlet
+    ¦¢  ¦¢          ¦¢      ¦¢      AddMusic_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      All_Playlist_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      BlobTest.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Create_Playlist_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Delete_Playlist_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Delete_User_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Following_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Insert_Followlist_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Login_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Modify_Userinfo_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      MyPage_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Playlist_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Register_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      SearchServlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      Select_Playlist_image_Servlet.java
+    ¦¢  ¦¢          ¦¢      ¦¢      ÅÖ.png
+    ¦¢  ¦¢          ¦¢      ¦¢      
+    ¦¢  ¦¢          ¦¢      ¦¦¦¡vo
+    ¦¢  ¦¢          ¦¢              Follow_list_VO.java
+    ¦¢  ¦¢          ¦¢              Music_info_VO.java
+    ¦¢  ¦¢          ¦¢              Playlist_info_VO.java
+    ¦¢  ¦¢          ¦¢              Playlist_song_VO.java
+    ¦¢  ¦¢          ¦¢              User_info_VO.java
+    ¦¢  ¦¢          ¦¢              
+    ¦¢  ¦¢          ¦¦¦¡webapp
+    ¦¢  ¦¢              ¦¢  Create_Playlist.jsp
+    ¦¢  ¦¢              ¦¢  home.jsp
+    ¦¢  ¦¢              ¦¢  login.jsp
+    ¦¢  ¦¢              ¦¢  logout.jsp
+    ¦¢  ¦¢              ¦¢  Modify_user_info.jsp
+    ¦¢  ¦¢              ¦¢  music_add.jsp
+    ¦¢  ¦¢              ¦¢  music_search.jsp
+    ¦¢  ¦¢              ¦¢  music_search_result.jsp
+    ¦¢  ¦¢              ¦¢  MyPage.jsp
+    ¦¢  ¦¢              ¦¢  MyPlaylist.jsp
+    ¦¢  ¦¢              ¦¢  playListDetail.jsp
+    ¦¢  ¦¢              ¦¢  playlist_search.jsp
+    ¦¢  ¦¢              ¦¢  playlist_search_result.jsp
+    ¦¢  ¦¢              ¦¢  Register_user.jsp
+    ¦¢  ¦¢              ¦¢  sample.jsp
+    ¦¢  ¦¢              ¦¢  user_search.jsp
+    ¦¢  ¦¢              ¦¢  user_search_result.jsp
+    ¦¢  ¦¢              ¦¢  
+    ¦¢  ¦¢              ¦§¦¡css
+    ¦¢  ¦¢              ¦¢      all.css
+    ¦¢  ¦¢              ¦¢      CreateAccountPage.css
+    ¦¢  ¦¢              ¦¢      login.css
+    ¦¢  ¦¢              ¦¢      myPage.css
+    ¦¢  ¦¢              ¦¢      register_user.css
+    ¦¢  ¦¢              ¦¢      search.css
+    ¦¢  ¦¢              ¦¢      
+    ¦¢  ¦¢              ¦§¦¡img
+    ¦¢  ¦¢              ¦¢      bignote.gif
+    ¦¢  ¦¢              ¦¢      blueheart.gif
+    ¦¢  ¦¢              ¦¢      cd.gif
+    ¦¢  ¦¢              ¦¢      dino.gif
+    ¦¢  ¦¢              ¦¢      email.png
+    ¦¢  ¦¢              ¦¢      follow.png
+    ¦¢  ¦¢              ¦¢      headset.gif
+    ¦¢  ¦¢              ¦¢      heart.gif
+    ¦¢  ¦¢              ¦¢      lookaround.png
+    ¦¢  ¦¢              ¦¢      mypage.png
+    ¦¢  ¦¢              ¦¢      mypage_top.png
+    ¦¢  ¦¢              ¦¢      name.png
+    ¦¢  ¦¢              ¦¢      note.gif
+    ¦¢  ¦¢              ¦¢      password.png
+    ¦¢  ¦¢              ¦¢      passwordcheck.png
+    ¦¢  ¦¢              ¦¢      pencil.png
+    ¦¢  ¦¢              ¦¢      phone.png
+    ¦¢  ¦¢              ¦¢      pixel_search.png
+    ¦¢  ¦¢              ¦¢      profile.png
+    ¦¢  ¦¢              ¦¢      Save.png
+    ¦¢  ¦¢              ¦¢      smile.png
+    ¦¢  ¦¢              ¦¢      user.png
+    ¦¢  ¦¢              ¦¢      what.png
+    ¦¢  ¦¢              ¦¢      ·Î±×¾Æ¿ô.png
+    ¦¢  ¦¢              ¦¢      »þÀÌ´Ï·Î°í.png
+    ¦¢  ¦¢              ¦¢      ¾Ë°è.jpg
+    ¦¢  ¦¢              ¦¢      ÅÖ.png
+    ¦¢  ¦¢              ¦¢      
+    ¦¢  ¦¢              ¦§¦¡js
+    ¦¢  ¦¢              ¦¢      CreateAccountPage.js
+    ¦¢  ¦¢              ¦¢      
+    ¦¢  ¦¢              ¦§¦¡META-INF
+    ¦¢  ¦¢              ¦¢  ¦¢  MANIFEST.MF
+    ¦¢  ¦¢              ¦¢  ¦¢  
+    ¦¢  ¦¢              ¦¢  ¦¦¦¡lib
+    ¦¢  ¦¢              ¦¢          ojdbc11.jar
+    ¦¢  ¦¢              ¦¢          
+    ¦¢  ¦¢              ¦¦¦¡WEB-INF
+    ¦¢  ¦¢                  ¦¦¦¡lib
+    ¦¢  ¦¢                          ojdbc11.jar
+    ¦¢  ¦¢                          
+    ¦¢  ¦¦¦¡Servers
+    ¦¢      ¦¢  .project
+    ¦¢      ¦¢  
+    ¦¢      ¦§¦¡.settings
+    ¦¢      ¦¢      org.eclipse.wst.server.core.prefs
+    ¦¢      ¦¢      
+    ¦¢      ¦¦¦¡Apache Tomcat v9.0 (2) at localhost-config
+    ¦¢              catalina.policy
+    ¦¢              catalina.properties
+    ¦¢              context.xml
+    ¦¢              server.xml
+    ¦¢              tomcat-users.xml
+    ¦¢              web.xml
+    ¦¢              
+    ¦§¦¡FRONT
+    ¦¢  ¦§¦¡css
+    ¦¢  ¦¢      all.css
+    ¦¢  ¦¢      main.css
+    ¦¢  ¦¢      search.css
+    ¦¢  ¦¢      
+    ¦¢  ¦§¦¡html
+    ¦¢  ¦¢      form.html
+    ¦¢  ¦¢      login.html
+    ¦¢  ¦¢      main.html
+    ¦¢  ¦¢      music_search.html
+    ¦¢  ¦¢      search.html
+    ¦¢  ¦¢      test.html
+    ¦¢  ¦¢      
+    ¦¢  ¦¦¦¡img
+    ¦¢          dino.gif
+    ¦¢          lookaround.png
+    ¦¢          mypage.png
+    ¦¢          pixel_search.png
+    ¦¢          »þ¿ù1.jpg
+    ¦¢          »þÀÌ´Ï·Î°í.png
+    ¦¢          
+    ¦¦¦¡SQL
+            SHINEE.sql
+            SHINEE_2.sql
+            
